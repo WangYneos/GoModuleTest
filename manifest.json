@@ -1,0 +1,7 @@
+{
+  "Author": "WangYneos",
+  "License": "GPL_V3",
+  "Description": "A Test Plugin",
+  "Install": "install.js",
+  "Uninstall": "uninstall.js"
+}
